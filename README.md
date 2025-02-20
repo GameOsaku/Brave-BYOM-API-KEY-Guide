@@ -96,18 +96,6 @@ In Brave Leo's BYOM configuration, enter the following details:
 
 ---
 
-## Key Takeaways
-
-- **OpenAI Compatibility is Essential:**  
-  Use endpoints and model names that align with the OpenAI API specifications.
-
-- **Documentation is Key:**  
-  Always refer to the provider's official documentation for the most accurate and updated information.
-
-- **Test Your Configuration:**  
-  Verify your setup thoroughly to ensure smooth integration.
-
----
 
 ## Contributing
 
