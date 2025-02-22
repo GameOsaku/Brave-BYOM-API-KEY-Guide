@@ -46,7 +46,7 @@ Brave BYOM enables you to connect to external AI services by using endpoints and
   - `gemini-1.5-flash-latest`
   - `gemini-1.5-pro-latest`
   - `gemini-pro-latest`  
-  *Refer to the official Gemini API documentation for the latest model names.*
+  *Refer to the official Gemini API documentation for the latest model names.* [Models](https://ai.google.dev/gemini-api/docs/models/experimental-models) and [Experimental Models](https://ai.google.dev/gemini-api/docs/models/gemini) 
 
 - **API Key:**  
   Obtain from [Google AI Studio](https://makersuite.google.com).
